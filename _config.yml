@@ -1,0 +1,6 @@
+title: "Devel: things for devels"
+markdown: kramdown
+description: Code, gists, links... On the path to learning.
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-minimal
